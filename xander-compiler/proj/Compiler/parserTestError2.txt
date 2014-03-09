@@ -1,6 +1,0 @@
-program foo;
-var foobar : integer;
-var fooarray : array[1:2 of integer;
-begin
-end
-.

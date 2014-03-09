@@ -1,4 +1,0 @@
-program foo;
-begin
-end
-.
